@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-# Author - Bamidele Adefolaju
-
 def uppercase(str):
    
     for c in str:

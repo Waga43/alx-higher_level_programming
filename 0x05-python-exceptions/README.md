@@ -1,3 +1,3 @@
 # Introduction
 
-This is a repo for the ALX SE Python Exceptions project tasks
+This is a directory containing the files of the ALX SE project tasks

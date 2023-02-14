@@ -1,4 +1,4 @@
--- Import in hbtn_0c_0 database this table dump: download
+-- Import in hbtn_0c_0 database this table dump: temperatures.sql download
 -- MySQL script that displays the average temperature (Fahrenheit)
 -- by city ordered by temperature (descending).
 

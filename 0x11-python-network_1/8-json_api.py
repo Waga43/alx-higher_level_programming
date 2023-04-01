@@ -9,10 +9,10 @@ import requests
 
 
 if __name__ == "__main__":
-    if len(argv) == 1:
-        letter = ""
+    if len(argv) == 2:
+        letter = argv[1]
     else:
-        letter = argv[[1]
+        letter = ""
     payload = {"q": letter}
 
     response = requests.post("http://0.0.0.0:5000/search_user", data=payload)
